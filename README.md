@@ -22,11 +22,11 @@ El análisis utiliza un enfoque de Business Intelligence, desde la limpieza de d
 * **SciPy (stats.ttest_ind):** Para la ejecución de la **Prueba t de Student** y la validación estadística de hipótesis.
 * **Tableau Public:** Para la creación del dashboard interactivo final.
 
-## 🚀 Dashboard Interactivo (Tableau Public)
+## Dashboard Interactivo (Tableau Public)
 
 El resultado final del análisis es un dashboard interactivo diseñado para los supervisores, permitiendo el monitoreo semanal de los KPIs clave y la detección temprana de ineficacia.
 
-**[Enlace a tu Dashboard de Tableau Public aquí]**
+[**Click aquí para ver el Dashboard Interactivo en Tableau Public**](https://public.tableau.com/views/CallMeMaybe-Analisisdeineficacia/CallMeMaybe-AnlisisdeIneficaciaOperadores?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Hallazgos Clave y Verificación de Hipótesis
 
