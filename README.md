@@ -26,7 +26,7 @@ El análisis utiliza un enfoque de Business Intelligence, desde la limpieza de d
 
 El resultado final del análisis es un dashboard interactivo diseñado para los supervisores, permitiendo el monitoreo semanal de los KPIs clave y la detección temprana de ineficacia.
 
-[**Click aquí para ver el Dashboard Interactivo en Tableau Public**](https://public.tableau.com/views/CallMeMaybe-Analisisdeineficacia/CallMeMaybe-AnlisisdeIneficaciaOperadores?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[**Click aquí para ver el Dashboard Interactivo en Tableau Public**](https://public.tableau.com/views/CallMeMaybe-Analisisdeineficacia/CallMeMaybe-AnlisisdeIneficaciaOperadores)
 
 ## Hallazgos Clave y Verificación de Hipótesis
 
@@ -46,3 +46,4 @@ Se propone un plan de acción inmediato enfocado en los 109 operadores identific
 2.  **Revisión Operacional (Tasa de Pérdida):** El supervisor debe **investigar la causa raíz** de la alta Tasa de Llamadas Perdidas (problemas técnicos, sobrecarga de trabajo, o abandono de puesto).
 3.  **Definición de Roles (Doble Riesgo):** Revisar el rol de los **33 operadores** de "doble riesgo". Si su función es proactiva, se debe establecer un KPI mínimo obligatorio de llamadas salientes.
 4.  **Monitoreo Proactivo (Dashboard):** Poner en funcionamiento el **Dashboard de Tableau** para los supervisores, con los umbrales P95 como "línea roja" de alerta para la detección temprana.
+
